@@ -23,7 +23,7 @@
     "serve-favicon": "~2.3.2",
     "sha1": "^1.1.1",
     "underscore": "^1.9.1",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
